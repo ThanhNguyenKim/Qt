@@ -1,0 +1,1 @@
++ Overview about QT, QT-Quick, QT-QML.+ Understand GUI object concerpt, structute testing+ QML Basic element ( Visible: Rectangle; Image, Button. Invisible: Loader, Stackview, Row, RowLayout, Listview, Repeater )
